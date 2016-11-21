@@ -2,3 +2,24 @@ body {
 	background: url("img/children.jpg") no-repeat center fixed;
 	background-size: cover;
 }
+
+.welcome > .container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 60vh;
+}
+
+.welcome .jumbotron {
+	align-self: flex-end;
+	background: transparent;
+	color: #fff;
+}
+
+.jumbotron > h1 {
+	text-shadow: 3px 3px 0 #000;
+}
+
+p.lead {
+	text-shadow: 1px 1px 1px #000;
+}
