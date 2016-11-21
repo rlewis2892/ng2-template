@@ -20,6 +20,6 @@ body {
 	text-shadow: 3px 3px 0 #000;
 }
 
-p.lead {
-	text-shadow: 1px 1px 1px #000;
+.jumbotron > h2 {
+	text-shadow: 2px 1px 0 #000;
 }

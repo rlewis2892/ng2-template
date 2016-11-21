@@ -1,8 +1,8 @@
 <section class="welcome">
 	<div class="container">
 		<div class="jumbotron text-right">
-			<h1>Welcome to the Angular 2 Template Demo!</h1>
-			<p class="lead">This is the HOME view! :D</p>
+			<h2 class="text-center">Welcome to the Angular 2 Template Demo!</h2>
+			<h1>This is the HOME view! :D</h1>
 		</div>
 	</div>
 </section>
